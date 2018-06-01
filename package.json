@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.13.3",
-    "express": "^4.13.3",
-    "underscore": "^1.9.0"
+    "body-parser": "^1.18.3",
+    "dependencies": "0.0.1",
+    "express": "^4.16.3",
+    "license": "0.0.3",
+    "underscore": "^1.9.1"
   }
 }
